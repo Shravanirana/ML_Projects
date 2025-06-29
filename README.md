@@ -96,7 +96,7 @@ Deploy on cloud (e.g., Heroku, AWS, etc.)
 
 Contact: [your.shravanirana@gmail.com]
 
-Let me know if you want it tailored for Streamlit, Gradio, or a specific dataset (like Kaggle Bangalore housing, etc.).
+
 
 
 
